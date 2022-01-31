@@ -1,0 +1,142 @@
+{
+  "Navigation": {
+    "1": "Start",
+    "2": "End"
+  },
+  "Timeout_Popup": {
+    "1": "Due to inactivity, you will be back on the homepage in 10 seconds.",
+    "2": "Stay on the current page"
+  },
+  "Start": {
+    "1": "Climate Change?",
+    "2": " - 3 things you need to know -"
+  },
+  "Climate1_Title": {
+    "1": "1. The world is getting warmer",
+    "2": "- Temperature deviations in 2019 from the average 1950-1981 -"
+  },
+  "Climate1_TooltipTemperature": {
+    "1": "Temperature increase",
+    "2": "no values",
+    "3": "d.ADMIN",
+    "4": "props.selectedCountry.properties.ADMIN",
+    "5": "Global"
+  },
+  "Climate1_Legend": "Temperature deviations from the mean in °C",
+  "Climate1_Location": "My location",
+  "Climate1_Bubble": {
+    "1": "",
+    "2": "The deviations of the average annual temperatures from the average of the years 1950-1981 ",
+    "3": "shown in the graph show a steady increase in temperature. This has a strong impact on people and the environment. What does this mean for Switzerland? Find out more on the next page. "
+  },
+  "Climate1_Source": "Source: NASA-GISS",
+  "Climate1_Button": {
+    "1": "Weiter",
+    "2": "Was bedeutet das für die Schweiz?"
+  },
+  "Climate2_Bubble_Snowline": {
+    "1": "The freezing level shifts ever higher and less snow remains in lower areas.",
+    "2": " As a guideline: Snow is often to be expected 200 to 400 meters below the freezing level.",
+    "3": "Solution: In the last 60 years the zero degree line has risen ",
+    "4": "350 meters",
+    "5": " - per degree of warming about 200 meters. This corresponds to",
+    "6": " XX times the height of the main bulding of the Verkehrshaus",
+    "7": " Also the glaciers are affected, learn more on the next page!"
+  },
+  "Climate2_Bubble_Glacier": {
+    "1": "Solution: The glaciers have receded by ",
+    "2": ". ",
+    "3": " This corresponds to an ice mass of ",
+    "4": ", which fills Lake Lucerne ",
+    "5": " times.",
+    "6": " What are the reasons for these changes? Learn more on the next page!"
+  },
+  "Climate2_Submit_Button": "Submit",
+  "Climate2_Title": {
+    "1": " 2. Switzerland is also affected",
+    "2": "- What was the freezing level in 2018? -",
+    "3": "- By what percentage has the glacier volume decreased since 1850? -"
+  },
+  "Climate2_Graph": {
+    "1": "2018: Solution",
+    "2": "2018: Your estimate",
+    "3": "Estimate and confirm"
+  },
+  "Climate2_Slider": {
+    "1": "Decrease \nin volume",
+    "2": "Molten \nice",
+    "3": "Lake \nLucerne"
+  },
+  "Climate2_Source_Snowline": "Source: OcCC & ProClim",
+  "Climate2_Source_Glacier": "Source: SCNAT & VAW/ETHZürich & Universität Freiburg & Bundesamt für Statistik",
+  "Climate2_Glacier_Graph": {
+    "1": "Estimate 2019: ",
+    "2": "Solution 2019:",
+    "3": "Volume"
+  },
+  "Climate2_Lake": "Lake Lucerne",
+  "Climate3_Title": {
+    "1": "3. It is the human being",
+    "2": "- Greenhouse gases -",
+    "3": "- Which greenhouse gases are emitted worldwide? -",
+    "4": "- Which sectors are responsible for global emissions? -"
+  },
+  "Climate3_Bubble_1": {
+    "1": "Too much heat is trapped by man-made greenhouse gases: our planet is overheating.",
+    "2": " They act like a glass roof: they allow sunlight to reach the earth unhindered, but hinder heat reflection.",
+    "3": " Do you know which gases are emitted and to which sectors they are attributable? Go on and find out more."
+  },
+  "Climate3_Gas": {
+    "1": "Fluorinated gases",
+    "2": "Methane CH₄",
+    "3": "Carbon dioxide CO₂",
+    "4": "Nitrogen dioxide N0₂"
+  },
+  "Climate3_Gas_Cause": {
+    "1": "Origin: Refrigeration and air conditioning systems Sprays,",
+    "2": "insulating materials, fire extinguishing agents",
+    "3": "Emergence: garbage dumps, sewage treatment",
+    "4": "plants, burps & farts from cows, rice fields",
+    "5": "Origin: combustion of fossil fuels",
+    "6": "such as coal, natural gas & crude oil",
+    "7": "Origin: chemical industry, fertilizer,",
+    "8": "fermentation residues, combustion of fossil fuels"
+  },
+  "Climate3_Sector_Cause": {
+    "1": "(Generation, transmission & ",
+    "2": "Distribution of electricity)",
+    "3": "(Arable, livestock",
+    "4": "and deforestation)",
+    "5": "(Industrial",
+    "6": "processes)",
+    "7": "(Road, rail, air",
+    "8": "and sea transport)",
+    "9": "(Indirect emissions",
+    "10": "from the energy sector)",
+    "11": "(Heating of buildings",
+    "12": "and cooking)"
+  },
+  "Climate3_Sector": {
+    "1": "Energy",
+    "2": "Agriculture",
+    "3": "Industry",
+    "4": "Transport",
+    "5": "Other",
+    "6": "Buildings"
+  },
+  "Climate3_Source": "Source: IPCC (Reference year: 2010), WWF, Bayerischer Rundfunk, US EPA",
+  "End": {
+    "1": "Climate Change?",
+    "2": "Yes!",
+    "3": "1. It is getting warmer",
+    "4": "2. Switzerland is affected",
+    "5": "3. Humans are primarily responsible",
+    "6": "Back to the start"
+  },"End_Modal": {
+    "1": "Bachelor Thesis - Mission Climate and Weather",
+    "2": "Project team",
+    "3": "Supervisors",
+    "4": "Customer",
+    "5": "Verkehrshaus Lucerne"
+  }
+}

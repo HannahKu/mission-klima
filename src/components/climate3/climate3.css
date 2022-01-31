@@ -1,0 +1,128 @@
+.svg-container {
+  position: absolute;
+  left: 50%;
+  top: 47%;
+  transform: translate(-50%, -50%);
+}
+
+.bubble-source-gas,
+.bubble-source-sector {
+  fill: #868585;
+  font-size: 13pt;
+  text-anchor: middle;
+}
+
+.bubble-source-sector-1 {
+  fill: #9685e5;
+}
+
+.bubble-source-sector-2 {
+  fill: #6a8adf;
+}
+
+.bubble-source-bold {
+  font-weight: bold;
+}
+
+.bubble-CH4 {
+  fill: #40b79b;
+}
+
+.bubble-N02 {
+  fill: #d37b61;
+}
+
+.bubble-FGAS {
+  fill: #ffd763;
+}
+
+.bubble-C02 {
+  fill: #d14aa7;
+}
+
+.bubble-title-gas,
+.bubble-title-sector {
+  font-size: 18pt;
+  font-family: "Gudea", sans-serif;
+  font-weight: 700;
+  text-anchor: middle;
+}
+
+.bubble-box-climate3 {
+  text-align: left;
+  top: 43.5%;
+  width: 550px;
+  box-sizing: border-box;
+  left:50%;
+  margin-left: -275px;
+}
+
+.label-electricity {
+  fill: #fff5fa;
+}
+
+.label-agriculture {
+  fill: #fac8df;
+}
+
+.label-industry {
+  fill: #f4a8ed;
+}
+
+.label-transport {
+  fill: #cf7cff;
+}
+
+.label-other {
+  fill: #9685e5;
+}
+
+.label-buildings {
+  fill: #6a8adf;
+}
+
+#split-bubbles-by-gas,
+#split-bubbles-by-sector {
+  padding: 0;
+  float: right;
+}
+
+/*fade for nav*/
+.hide-nav {
+  animation-duration: 1s;
+  animation-name: fadeOutNav;
+  animation-fill-mode: forwards;
+}
+
+@keyframes fadeOutNav {
+  from {
+    opacity: 100%;
+  }
+  to {
+    opacity: 0%;
+  }
+}
+
+.show-nav,
+.show-subtitles {
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-name: fadeInNav;
+  animation-fill-mode: backwards;
+}
+
+.show-nav-delay-8s {
+  animation-duration: 2s;
+  animation-delay: 8s;
+  animation-name: fadeInNav;
+  animation-fill-mode: backwards;
+}
+
+@keyframes fadeInNav {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
+}

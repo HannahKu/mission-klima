@@ -1,0 +1,138 @@
+{
+  "Navigation": {
+    "1": "Start",
+    "2": "Ende"
+  },
+  "Timeout_Popup": {
+    "1": "Aufgrund von Inaktivität wirst du in 10 Sekunden wieder auf die Startseite gelangen.",
+    "2": "Auf dieser Seite bleiben"
+  },
+  "Start": {
+    "1": "Klimawandel?",
+    "2": "- 3 Dinge, die du wissen musst -"
+  },
+  "Climate1_Title": {
+    "1": "1. Die Welt wird wärmer",
+    "2": "- Temperaturabweichungen des Jahres 2019 vom Mittel 1950-1981 -"
+  },
+  "Climate1_TooltipTemperature": {
+    "1": "Temperaturzunahme",
+    "2": "keine Angaben",
+    "3": "d.ADMIN_DE",
+    "4": "props.selectedCountry.properties.ADMIN_DE",
+    "5": "Global"
+  },
+  "Climate1_Legend": "Temperaturabweichungen vom Mittel in °C",
+  "Climate1_Location": "Mein Standort",
+  "Climate1_Bubble": {
+    "1": "Die im Grafen dargestellten ",
+    "2": "Abweichungen der mittleren Jahrestemperaturen vom Durchschnitt der Jahre 1950-1981, ",
+    "3": "zeigen eine stetige Temperaturzunahme. Diese haben starke Auswirkungen auf Mensch und Umwelt. Was bedeutet dies für die Schweiz? Erfahre mehr auf der nächsten Seite."
+  },
+  "Climate1_Source": "Quelle: NASA-GISS",
+  "Climate2_Bubble_Snowline": {
+    "1": "Die Nullgradgrenze verschiebt sich immer weiter nach oben und weniger Schnee bleibt in tieferen Lagen liegen.",
+    "2": " Als Richtwert gilt: Schnee ist oftmals 200 bis 400 Meter unterhalb der Nullgradgrenze zu erwarten.",
+    "3": "Lösung: Die Nullgradgrenze stieg in den letzten 60 Jahre um ",
+    "4": "350 Meter",
+    "5": " - pro Grad Erwärmung ca. 200 Meter. Dies entspricht",
+    "6": " XX mal der Höhe des Hauptgebäudes des Verkehrshaus.",
+    "7": " Auch die Gletscher sind betroffen, erfahre mehr auf der nächsten Seite!"
+  },
+  "Climate2_Bubble_Glacier": {
+    "1": "Lösung: Die Gletscher sind um ",
+    "2": " zurückgegeangen.",
+    "3": " Dies entspricht einer Eismasse von ",
+    "4": ", welche den Vierwaldstättersee ",
+    "5": " füllt.",
+    "6": " Was sind die Ursachen für diese Veränderungen? Erfahre mehr auf der nächsten Seite!"
+  },
+  "Climate2_Submit_Button": "Bestätigen",
+  "Climate2_Title": {
+    "1": "2. Auch die Schweiz ist betroffen",
+    "2": "- Auf welcher Höhe befand sich die Nullgradgrenze im Jahr 2018? -",
+    "3": "- Um wieviel Prozent hat sich das Gletschervolumen seit 1850 reduziert? -"
+  },
+  "Climate2_Graph": {
+    "1": "2018: Lösung",
+    "2": "2018: Deine Schätzung",
+    "3": "Schätze und bestätige"
+  },
+  "Climate2_Slider": {
+    "1": "Rückgang \nVolumen",
+    "2": "Geschmolzenes \nEis",
+    "3": "Vierwald- \nstättersee"
+  },
+  "Climate2_Source_Snowline": "Quelle: OcCC & ProClim",
+  "Climate2_Source_Glacier": "Quelle: SCNAT & VAW/ETHZürich & Universität Freiburg & Bundesamt für Statistik",
+  "Climate2_Glacier_Graph": {
+    "1": "Schätzung 2019: ",
+    "2": "Lösung 2019: ",
+    "3": "Volumen"
+  },
+  "Climate3_Title": {
+    "1": "3. Es ist der Mensch",
+    "2": "- Treibhausgase -",
+    "3": "- Welche Treibhausgase werden weltweit ausgestossen? -",
+    "4": "- Auf welche Sektoren sind die globalen Emissionen zurückzuführen? -"
+  },
+  "Climate3_Bubble_1": {
+    "1": "Durch die menschenverursachten Treibhausgase wird zu viel Wärme zurückgestaut: Unser Planet überhitzt.",
+    "2": " Die Treibhausgase wirken wie ein Glasdach: Sie lassen das Sonnenlicht ungehindert auf die Erde einstrahlen, verhindern aber die Wärme-Rückstrahlung.",
+    "3": " Weisst du, welche Gase ausgestossen werden und auf welche Sektoren diese zurückzuführen sind? Gehe weiter und erfahre mehr."
+  },
+  "Climate3_Gas": {
+    "1": "Fluorierte Gase",
+    "2": "Methan CH₄",
+    "3": "Kohlenstoffdioxid CO₂",
+    "4": "Stickstoffdioxid NO₂"
+  },
+  "Climate3_Gas_Cause": {
+    "1": "Entstehung: Kälte- und Klimaanlagen,",
+    "2": "Sprays, Dämmstoffe, Feuerlöschmittel",
+    "3": "Entstehung: Mülldeponien, Klärwerke,",
+    "4": "Rülpse & Fürze von Kühen, Reisfelder",
+    "5": "Entstehung: Verbrennung fossiler",
+    "6": "Energieträger wie Kohle, Erdgas & Erdöl",
+    "7": "Entstehung: chemische Industrie, Dünger,",
+    "8": "Gärreste, Verbrennung fossiler Energieträger"
+  },
+  "Climate3_Sector_Cause": {
+    "1": "(Erzeugung, Übertragung & ",
+    "2": "Verteilung von Elektrizität)",
+    "3": "(Ackerbau, Viehzucht",
+    "4": "und Entwaldung)",
+    "5": "(Industrielle",
+    "6": "Prozesse)",
+    "7": "(Straßen-, Schienen-, Luft- ",
+    "8": "und Seeverkehr)",
+    "9": "(Indirekte Emissionen ",
+    "10": "aus dem Energiesektor)",
+    "11": "(Beheizung von Gebäuden",
+    "12": "und Kochen)"
+  },
+  "Climate3_Sector": {
+    "1": "Energie",
+    "2": "Landwirtschaft",
+    "3": "Industrie",
+    "4": "Transport",
+    "5": "Andere",
+    "6": "Gebäude"
+  },
+  "Climate3_Source": "Quelle: IPCC (Referenzjahr: 2010), WWF, Bayerischer Rundfunk, US EPA",
+  "End": {
+    "1": "Klimawandel?",
+    "2": "Ja!",
+    "3": "1. Es wird  wärmer",
+    "4": "2. Die Schweiz ist betroffen",
+    "5": "3. Der Mensch ist hauptverantwortlich",
+    "6": "Zurück zum Start"
+  },
+  "End_Modal": {
+    "1": "Bachelor Arbeit - Mission Klima und Wetter",
+    "2": "Projektteam",
+    "3": "Betreuende",
+    "4": "Kunde",
+    "5": "Verkehrshaus Luzern"
+  }
+}
